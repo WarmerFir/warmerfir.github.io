@@ -112,8 +112,8 @@
     }, 
     {
     "name": "mine",
-    "address": "https://anisette-v3-server-oh4b.onrender.com/",
-    "kind": 2
+    "address": "https://anisette-v3-server-oh4b.onrender.com",
+    "kind": 0
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
